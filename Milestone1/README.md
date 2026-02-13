@@ -2,7 +2,7 @@
 
 > **Phase 1 of FitPlan AI Development**: Building the core user profiling system and establishing the foundation for AI-powered fitness planning.
 
-[![Live Demo](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://huggingface.co/spaces/KrDevanshu06/FitPlan-AI-Milestone1)
+[Hugging face Deployment](https://huggingface.co/spaces/KrDevanshu06/FitPlan-AI-Milestone1)</br>
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Framework-Streamlit-red)](https://streamlit.io/)
 
@@ -92,20 +92,6 @@ def calculate_bmi(weight_kg, height_cm):
 ---
 
 ## 🏗️ Application Architecture
-
-### File Structure & Organization
-```
-Milestone1/
-├── app.py                 # Main application entry point
-│   ├── setup_page()      # Configuration and CSS styling
-│   ├── calculate_bmi()   # Health calculation engine  
-│   ├── sidebar_interface() # User input collection
-│   ├── show_dashboard()   # Metrics visualization
-│   └── main()            # Application orchestration
-├── requirements.txt       # Production dependencies
-├── README.md             # Technical documentation
-└── screenshots/          # UI demonstration assets
-```
 
 ### Key Dependencies
 ```txt
