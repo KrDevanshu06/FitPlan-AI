@@ -109,7 +109,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Links & Resources
 
-- **Live Demo**: [Milestone 1 Application](https://huggingface.co/spaces/YOUR_USERNAME/FitPlan-AI-Milestone1)
+- **Live Demo**: [Milestone 1 Application](https://huggingface.co/spaces/KrDevanshu06/FitPlan-AI-Milestone1)
 - **Documentation**: [Milestone 1 Details](Milestone1/README.md)
 - **Issues**: [GitHub Issues](https://github.com/KrDevanshu06/FitPlan-AI/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/KrDevanshu06/FitPlan-AI/discussions)
