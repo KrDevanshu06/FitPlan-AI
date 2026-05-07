@@ -61,4 +61,4 @@ The project has been organized into a modular architecture for scalability and m
 ## 🚀 Live Demonstration
 The finalized **FitPlan AI** application is live on Hugging Face Spaces:
 
-[**Live Link:**] https://huggingface.co/spaces/Karthik71212/FIT_PLAN_2
+[**Live Link:**] https://huggingface.co/spaces/KrDevanshu06/FitPlan-AI-Milestone4
